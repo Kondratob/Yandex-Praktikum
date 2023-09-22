@@ -202,13 +202,3 @@
 </tr>
 </tbody>
 </table>
-
----
-
-#### License
-
-[MIT](./LICENSE)
-
----
-
-With :heart: by [Anastasia Kim (@gingermuffin)](https://github.com/gingermuffin)
