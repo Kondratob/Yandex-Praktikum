@@ -10,6 +10,7 @@
 - Обучены модели LogisticRegression и CatBoostClassifier.
 - Подобраны наилучшие параметры для моделей.
 - Выбрана модель с наилучшим f1 score для проверки на тестовой выборке(LogisticRegression).
+
 f1 score модели LogisticRegression на тестовой выборке 0.779
 
 ## Решение
